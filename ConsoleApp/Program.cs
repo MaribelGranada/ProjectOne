@@ -12,9 +12,9 @@ namespace ConsoleApp
             {
                 
                 Time t1 = new Time(0, 0, 0, 0);           // 00:00:00.000
-                Time t2 = new Time(14, 0, 0, 0);          // 14:00:00.000 (=> 02:00:00.000 PM)
-                Time t3 = new Time(9, 34, 0, 0);          // 09:34:00.000 (se usa para Add)
-                Time t4 = new Time(19, 45, 56, 0);        // 19:45:56.000 (se usa para IsOtherDay)
+                Time t2 = new Time(14, 0, 0, 0);          // 14:00:00.000 
+                Time t3 = new Time(9, 34, 0, 0);          // 09:34:00.000 
+                Time t4 = new Time(19, 45, 56, 0);        // 19:45:56.000 
                 Time t5 = new Time(23, 3, 45, 678);       // 23:03:45.678
 
                 Time[] times = { t1, t2, t3, t4, t5 };
