@@ -1,0 +1,14 @@
+C:\Users\PC_WIM11\Desktop\ProjectOne\ConsoleApp\bin\Debug\net9.0\ConsoleApp.exe
+C:\Users\PC_WIM11\Desktop\ProjectOne\ConsoleApp\bin\Debug\net9.0\ConsoleApp.deps.json
+C:\Users\PC_WIM11\Desktop\ProjectOne\ConsoleApp\bin\Debug\net9.0\ConsoleApp.runtimeconfig.json
+C:\Users\PC_WIM11\Desktop\ProjectOne\ConsoleApp\bin\Debug\net9.0\ConsoleApp.dll
+C:\Users\PC_WIM11\Desktop\ProjectOne\ConsoleApp\bin\Debug\net9.0\ConsoleApp.pdb
+C:\Users\PC_WIM11\Desktop\ProjectOne\ConsoleApp\obj\Debug\net9.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC_WIM11\Desktop\ProjectOne\ConsoleApp\obj\Debug\net9.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\PC_WIM11\Desktop\ProjectOne\ConsoleApp\obj\Debug\net9.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\PC_WIM11\Desktop\ProjectOne\ConsoleApp\obj\Debug\net9.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\PC_WIM11\Desktop\ProjectOne\ConsoleApp\obj\Debug\net9.0\ConsoleApp.dll
+C:\Users\PC_WIM11\Desktop\ProjectOne\ConsoleApp\obj\Debug\net9.0\refint\ConsoleApp.dll
+C:\Users\PC_WIM11\Desktop\ProjectOne\ConsoleApp\obj\Debug\net9.0\ConsoleApp.pdb
+C:\Users\PC_WIM11\Desktop\ProjectOne\ConsoleApp\obj\Debug\net9.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\PC_WIM11\Desktop\ProjectOne\ConsoleApp\obj\Debug\net9.0\ref\ConsoleApp.dll
